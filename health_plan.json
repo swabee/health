@@ -1,0 +1,180 @@
+[
+  {
+    "user_profile": {
+      "age": 25,
+      "weight_kg": 70,
+      "gender": "male",
+      "physical_condition": "active",
+      "goal": "muscle_gain",
+      "days": 3
+    },
+    "health_plan": {
+      "total_calorie": 2800,
+      "total_water_liters": 3.5,
+      "total_steps_should_walk": 10000,
+      "workout_plan": {
+        "Day 1": ["Push-ups", "Pull-ups", "Deadlifts"],
+        "Day 2": ["Squats", "Lunges", "Plank"],
+        "Day 3": ["Cardio", "HIIT", "Stretching"]
+      },
+      "breakfast": {
+        "calories": 600,
+        "fat": 20,
+        "protein": 30,
+        "water_ml": 300,
+        "time_minutes": 30,
+        "items": ["Oats", "Banana", "Protein shake"]
+      },
+      "lunch": {
+        "calories": 800,
+        "fat": 25,
+        "protein": 40,
+        "water_ml": 300,
+        "time_minutes": 40,
+        "items": ["Grilled chicken", "Brown rice", "Steamed broccoli"]
+      },
+      "tea": {
+        "calories": 200,
+        "fat": 5,
+        "protein": 10,
+        "water_ml": 200,
+        "time_minutes": 20,
+        "items": ["Boiled egg", "Green tea"]
+      },
+      "dinner": {
+        "calories": 600,
+        "fat": 20,
+        "protein": 30,
+        "water_ml": 300,
+        "time_minutes": 30,
+        "items": ["Salmon", "Quinoa", "Mixed salad"]
+      },
+      "water_timings": [
+        {"time": "7:30 AM", "amount_ml": 300},
+        {"time": "10:00 AM", "amount_ml": 300},
+        {"time": "12:30 PM", "amount_ml": 300},
+        {"time": "3:00 PM", "amount_ml": 300},
+        {"time": "6:00 PM", "amount_ml": 300},
+        {"time": "8:00 PM", "amount_ml": 300}
+      ]
+    }
+  },
+  {
+    "user_profile": {
+      "age": 45,
+      "weight_kg": 80,
+      "gender": "female",
+      "physical_condition": "moderate",
+      "goal": "weight_loss",
+      "days": 3
+    },
+    "health_plan": {
+      "total_calorie": 1800,
+      "total_water_liters": 3.0,
+      "total_steps_should_walk": 8000,
+      "workout_plan": {
+        "Day 1": ["Walking", "Yoga"],
+        "Day 2": ["Light jogging", "Pilates"],
+        "Day 3": ["Swimming", "Stretching"]
+      },
+      "breakfast": {
+        "calories": 350,
+        "fat": 10,
+        "protein": 20,
+        "water_ml": 250,
+        "time_minutes": 20,
+        "items": ["Greek yogurt", "Berries", "Almonds"]
+      },
+      "lunch": {
+        "calories": 550,
+        "fat": 15,
+        "protein": 25,
+        "water_ml": 250,
+        "time_minutes": 30,
+        "items": ["Grilled tofu", "Quinoa", "Spinach"]
+      },
+      "tea": {
+        "calories": 150,
+        "fat": 5,
+        "protein": 5,
+        "water_ml": 200,
+        "time_minutes": 15,
+        "items": ["Nuts mix", "Lemon tea"]
+      },
+      "dinner": {
+        "calories": 500,
+        "fat": 15,
+        "protein": 20,
+        "water_ml": 300,
+        "time_minutes": 25,
+        "items": ["Lentil soup", "Vegetable stir fry"]
+      },
+      "water_timings": [
+        {"time": "8:00 AM", "amount_ml": 300},
+        {"time": "11:00 AM", "amount_ml": 300},
+        {"time": "2:00 PM", "amount_ml": 300},
+        {"time": "5:00 PM", "amount_ml": 300},
+        {"time": "8:00 PM", "amount_ml": 300}
+      ]
+    }
+  },
+  {
+    "user_profile": {
+      "age": 65,
+      "weight_kg": 75,
+      "gender": "male",
+      "physical_condition": "sedentary",
+      "goal": "stay_healthy",
+      "days": 3
+    },
+    "health_plan": {
+      "total_calorie": 1600,
+      "total_water_liters": 2.5,
+      "total_steps_should_walk": 5000,
+      "workout_plan": {
+        "Day 1": ["Stretching", "Brisk walking"],
+        "Day 2": ["Chair exercises", "Tai Chi"],
+        "Day 3": ["Light yoga", "Breathing exercises"]
+      },
+      "breakfast": {
+        "calories": 300,
+        "fat": 8,
+        "protein": 15,
+        "water_ml": 250,
+        "time_minutes": 20,
+        "items": ["Oatmeal", "Milk", "Banana"]
+      },
+      "lunch": {
+        "calories": 500,
+        "fat": 12,
+        "protein": 20,
+        "water_ml": 250,
+        "time_minutes": 30,
+        "items": ["Steamed vegetables", "Grilled fish", "Brown rice"]
+      },
+      "tea": {
+        "calories": 100,
+        "fat": 3,
+        "protein": 3,
+        "water_ml": 200,
+        "time_minutes": 15,
+        "items": ["Tea", "Whole wheat crackers"]
+      },
+      "dinner": {
+        "calories": 400,
+        "fat": 10,
+        "protein": 15,
+        "water_ml": 300,
+        "time_minutes": 25,
+        "items": ["Soup", "Boiled egg", "Salad"]
+      },
+      "water_timings": [
+        {"time": "7:00 AM", "amount_ml": 250},
+        {"time": "10:00 AM", "amount_ml": 250},
+        {"time": "1:00 PM", "amount_ml": 250},
+        {"time": "4:00 PM", "amount_ml": 250},
+        {"time": "7:00 PM", "amount_ml": 250}
+      ]
+    }
+  }
+]
