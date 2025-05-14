@@ -4,69 +4,69 @@
     "name": "Push-Up",
     "muscle": "chest",
     "description": "A basic push-up strengthens the chest, shoulders, and triceps.",
-    "image_url": "https://media1.tenor.com/m/0hoNLcggDG0AAAAC/bench-press.gif"
+    "image_url": "https://media1.tenor.com/m/e45GckrMBLEAAAAC/flex%C3%A3o-inclinada-no-banco.gif"
   },
   {
     "id": 2,
     "name": "Pull-Up",
     "muscle": "back",
     "description": "Pull-ups build upper body strength using body weight.",
-    "image_url": "https://media1.tenor.com/m/0hoNLcggDG0AAAAC/bench-press.gif"
+    "image_url": "https://media1.tenor.com/m/dtp_AUAAwecAAAAC/barra-fixa-com-bra%C3%A7os-alternados.gif"
   },
   {
     "id": 3,
     "name": "Squat",
     "muscle": "legs",
     "description": "A fundamental leg exercise targeting the quads and glutes.",
-    "image_url": "https://media1.tenor.com/m/0hoNLcggDG0AAAAC/bench-press.gif"
+    "image_url": "https://media1.tenor.com/m/pdMmsiutWkcAAAAC/gym.gif"
   },
   {
     "id": 4,
     "name": "Plank",
     "muscle": "core",
     "description": "An isometric exercise that builds core endurance.",
-    "image_url": "https://media1.tenor.com/m/0hoNLcggDG0AAAAC/bench-press.gif"
+    "image_url": "https://media1.tenor.com/m/r9cqd_wnQmMAAAAC/noequipmentexercisesmen-sideplanks.gif"
   },
   {
     "id": 5,
     "name": "Dumbbell Curl",
     "muscle": "biceps",
     "description": "A classic arm exercise for strengthening the biceps.",
-    "image_url": "https://media1.tenor.com/m/0hoNLcggDG0AAAAC/bench-press.gif"
+    "image_url": "https://media1.tenor.com/m/-OavRqpxSaEAAAAC/eleva%C3%A7%C3%A3o-lateral.gif"
   },
   {
     "id": 6,
     "name": "Lunges",
     "muscle": "legs",
     "description": "Targets the quads, hamstrings, and glutes with a single-leg movement.",
-    "image_url": "https://media1.tenor.com/m/0hoNLcggDG0AAAAC/bench-press.gif"
+    "image_url": "https://media1.tenor.com/m/wTulE6li6AEAAAAC/afundo-com-halteres.gif"
   },
   {
     "id": 7,
     "name": "Overhead Press",
     "muscle": "shoulders",
     "description": "Works the deltoids and triceps through a vertical pressing motion.",
-    "image_url": "https://media1.tenor.com/m/0hoNLcggDG0AAAAC/bench-press.gif"
+    "image_url": "https://media1.tenor.com/m/CV1FfGVNpdcAAAAC/desenvolvimento-militar.gif"
   },
   {
     "id": 8,
     "name": "Tricep Dips",
     "muscle": "triceps",
     "description": "Bodyweight exercise focused on triceps activation.",
-    "image_url": "https://media1.tenor.com/m/0hoNLcggDG0AAAAC/bench-press.gif"
+    "image_url": "https://media1.tenor.com/m/iGyfarCUXe8AAAAC/tr%C3%ADceps-mergulho.gif"
   },
   {
     "id": 9,
     "name": "Russian Twist",
     "muscle": "core",
     "description": "A rotational movement to strengthen obliques and abdominals.",
-    "image_url": "https://media1.tenor.com/m/0hoNLcggDG0AAAAC/bench-press.gif"
+    "image_url": "https://media1.tenor.com/m/Fmh1xemYphAAAAAd/dumbbellrussiantwists.gif"
   },
   {
     "id": 10,
     "name": "Mountain Climbers",
     "muscle": "cardio",
     "description": "High-intensity movement to elevate heart rate and work the entire body.",
-    "image_url": "https://media1.tenor.com/m/0hoNLcggDG0AAAAC/bench-press.gif"
+    "image_url": "https://homeworkouts.org/wp-content/uploads/anim-mountain-climbers.gif"
   }
 ]
